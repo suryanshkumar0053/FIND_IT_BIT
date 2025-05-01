@@ -74,17 +74,7 @@ Every college student has experienced losing or finding things on campus—ID ca
 
 ## 📂 Project Structure
 
-com.example.finditbit/
-├── auth/             # Login, Signup, Password creation
-├── chat/             # Chat and Voice Messaging
-├── data/
-│   ├── model/        # AppUser data class
-│   └── repository/   # Firebase Repositories
-├── lostfound/        # Upload and Listing screens
-├── request/          # Request and Approval logic
-├── ui/               # Jetpack Compose UI components
-└── viewmodel/        # MVVM architecture logic
-
+com.example.finditbit/ ├── auth/ # Login, Signup, Password creation ├── chat/ # Chat and Voice Messaging ├── data/ │ ├── model/ # AppUser data class │ └── repository/ # Firebase Repositories ├── lostfound/ # Upload and Listing screens ├── request/ # Request and Approval logic ├── ui/ # Jetpack Compose UI components └── viewmodel/ # MVVM architecture logic
 
 
 ## 📦 Requirements
