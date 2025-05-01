@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "212264411650",
+    "project_id": "find-it-bit",
+    "storage_bucket": "find-it-bit.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:212264411650:android:8dd3488d5130fa92cd7d1b",
+        "android_client_info": {
+          "package_name": "com.example.find_it_bit"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCpQANFYxd9ZdtoZGw5ZaKWozBNMsO65w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
